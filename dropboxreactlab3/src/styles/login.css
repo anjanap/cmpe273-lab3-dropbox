@@ -1,0 +1,23 @@
+.btitle{
+position:absolute;
+    text-align:center;
+    border-bottom:double;
+    padding-bottom: 10px;
+}
+
+.ttile{
+	color: #F0F3F4;
+}
+
+.box {
+    margin: auto;
+    width: 50%;
+    border: 15px solid #73AD21;
+    padding: 10px;
+}
+
+
+.links {
+    text-decoration: underline;
+    color:#2D25DC;
+}
